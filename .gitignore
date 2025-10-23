@@ -19,13 +19,13 @@ build/
 .ipynb_checkpoints
 *.ipynb_checkpoints
 
+# large files
+data/movielens
+
 # Data files
-*.csv
 *.dat
-*.txt
 *.json
 *.h5
-*.pkl
 *.joblib
 *.model
 
